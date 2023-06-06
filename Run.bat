@@ -1,0 +1,1 @@
+java -jar Shop_Management_Application.jar
